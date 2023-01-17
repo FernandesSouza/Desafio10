@@ -72,6 +72,7 @@ header > h1{
     margin-bottom: 40px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.514);
     font-weight: normal;
+    min-width: 300px;
    
 }
 

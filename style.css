@@ -64,14 +64,14 @@ header{
 
 header > h1{
 
-
+    text-align: center;
     color: white;
     font-family: var(--fote-destaque);
     font-size: 3em;
     margin-bottom: 20px;
-    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.514);
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.308);
     font-weight: normal;
-    text-align: center;
+    
    
    
 }

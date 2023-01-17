@@ -66,13 +66,12 @@ header > h1{
 
 
     color: white;
-    text-align: center;
     font-family: var(--fote-destaque);
     font-size: 3em;
     margin-bottom: 40px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.514);
     font-weight: normal;
-    min-width: 300px;
+   
    
 }
 
@@ -88,7 +87,7 @@ header > p{
     padding-left: 10px;
     padding-right: 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.514);
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 
 }
 
